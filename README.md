@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Akos, a driven software engineer with a passion for crafting efficient solutions to complex problems. My expertise lies in C#, and I thrive on continuous learning and collaboration.
+Hey there! I'm Akos, a driven software engineer with a passion for crafting efficient solutions to complex problems.
 
 
 # 💻 Tech Stack:
